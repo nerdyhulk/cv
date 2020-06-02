@@ -1,0 +1,20 @@
+body {
+  background-color: #f1e3cb;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #f9b384;
+  border-width: 5px;
+  width: 5%;
+}
+h1 {
+  color: #ca5116;
+  font-family: "Rye";
+
+}
+h3{
+  color: #581c0c;
+  text-decoration: underline;
+  font-family: "Rye";
+}
